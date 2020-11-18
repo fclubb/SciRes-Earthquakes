@@ -1,0 +1,173 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2019-10-15T19:42:30.540Z,36.6455,-121.274,10.1,4.71,mw,89,54,0.04759,0.14,nc,nc73292360,2020-09-29T22:06:48.876Z,"17km SSE of Tres Pinos, CA",earthquake,0.15,0.31,,4,reviewed,nc,nc
+2017-11-13T19:31:29.050Z,36.6305,-121.2443333,6.31,4.58,mw,82,55,0.05988,0.11,nc,nc72923380,2018-10-05T14:00:40.985Z,"22km NE of Gonzales, California",earthquake,0.12,0.36,,6,reviewed,nc,nc
+2014-08-24T10:20:44.070Z,38.2151667,-122.3123333,11.12,6.02,mw,369,28,0.03604,0.18,nc,nc72282711,2020-08-14T23:04:26.676Z,"South Napa",earthquake,0.11,0.15,,0,reviewed,nc,nc
+2011-08-27T07:18:21.150Z,36.5843333,-121.1808333,7.5,4.64,mw,97,31,0.08108,0.08,nc,nc71627835,2020-05-02T02:50:33.967Z,"Central California",earthquake,0.11,0.3,,5,reviewed,nc,nc
+2011-01-12T08:51:03.680Z,36.7711667,-121.4963333,7.661,4.5,mw,134,35,0.01802,0.19,nc,nc71508850,2020-05-02T02:42:59.011Z,"Central California",earthquake,0.15,0.28,,16,reviewed,nc,nc
+2007-10-31T03:04:54.810Z,37.4335,-121.7743333,9.741,5.45,mw,156,50,0.02703,0.11,nc,nc40204628,2020-07-10T14:23:13.751Z,"San Francisco Bay area, California",earthquake,0.11,0.28,,6,reviewed,nc,nc
+2006-08-03T03:08:12.860Z,38.3635,-122.5886667,8.55,4.5,mw,107,28,0.01712,0.14,nc,nc21530368,2020-05-06T09:05:57.951Z,"Northern California",earthquake,0.14,0.27,,6,reviewed,nc,nc
+2002-05-14T05:00:29.500Z,36.9668333,-121.5983333,6.791,4.9,mw,110,30,0.01532,0.15,nc,nc21254601,2020-02-12T17:39:33.701Z,"Northern California",earthquake,0.15,0.31,,4,reviewed,nc,nc
+2001-12-28T21:14:01.950Z,36.6401667,-121.251,6.575,4.6,mw,60,71,0.03243,0.07,nc,nc21207275,2019-06-28T18:47:45.408Z,"Central California",earthquake,0.15,0.32,,5,reviewed,nc,nc
+2000-09-03T08:36:30.110Z,38.3788333,-122.4133333,9.367,4.9,mw,77,34,0.02523,0.15,nc,nc21123384,2020-07-07T22:32:51.430Z,"Northern California",earthquake,0.19,0.4,,7,reviewed,nc,nc
+2000-01-11T14:19:52.090Z,38.7693333,-122.9138333,5.77,4.59,mw,50,48,0.05405,0.1,nc,nc21076750,2017-03-17T16:02:40.504Z,"Northern California",earthquake,0.15,0.39,,19,reviewed,nc,nc
+1999-08-18T01:06:18.940Z,37.9073333,-122.6865,7.659,4.6,mw,71,76,0.02883,0.08,nc,nc21044694,2020-02-12T18:23:22.797Z,"San Francisco Bay area, California",earthquake,0.16,0.41,,7,reviewed,nc,nc
+1998-08-12T14:10:25.140Z,36.7545,-121.4615,8.822,5.1,mw,83,35,0.03784,0.19,nc,nc30190473,2020-07-07T22:35:32.781Z,"Central California",earthquake,0.24,0.54,,5,reviewed,nc,nc
+1996-05-21T20:50:20.170Z,37.3593333,-121.7223333,7.518,4.7,mw,102,29,0.02793,0.05,nc,nc30106749,2016-12-24T17:53:56.060Z,"San Francisco Bay area, California",earthquake,0.1,0.3,,3,reviewed,nc,nc
+1996-04-19T00:52:41.440Z,36.8853333,-121.6133333,5.345,4.9,mw,86,50,0,0.1,nc,nc30103999,2016-12-24T15:14:01.090Z,"Central California",earthquake,0.15,0.33,,2,reviewed,nc,nc
+1995-09-04T14:16:17.670Z,38.683,-122.7435,6.576,4.8,mw,60,42,0.02973,0.08,nc,nc30082729,2016-12-23T19:02:32.790Z,"Northern California",earthquake,0.14,0.32,,4,reviewed,nc,nc
+1995-04-23T08:41:36.650Z,36.602,-121.201,6.605,4.9,mw,81,33,0.02883,0.07,nc,nc30071966,2016-12-23T08:32:22.910Z,"Central California",earthquake,0.14,0.3,,5,reviewed,nc,nc
+1993-08-11T22:33:04.000Z,37.312,-121.679,8.928,4.67,md,102,41,0.05405,0.07,nc,nc374372,2016-12-20T17:25:51.960Z,"Northern California",earthquake,0.12,0.35,0.13,360,reviewed,nc,nc
+1993-01-16T06:29:35.010Z,37.0183333,-121.4631667,7.203,4.91,mw,95,68,0.01892,0.06,nc,nc332444,2020-08-25T22:28:48.320Z,"9km E of Gilroy, California",earthquake,0.15,0.32,,3,reviewed,nc,nc
+1991-03-24T03:42:08.610Z,36.9651667,-121.7258333,14.562,4.6,ml,92,42,0.06126,0.08,nc,nc208480,2016-12-18T04:26:51.480Z,"Northern California",earthquake,0.18,0.31,,0,reviewed,nc,nc
+1990-04-18T15:46:03.450Z,36.9588333,-121.6845,6.641,5.1,ml,87,28,0.00991,0.09,nc,nc20091155,2016-12-17T05:06:53.470Z,"Northern California",earthquake,0.14,0.28,,0,reviewed,nc,nc
+1990-04-18T13:53:51.300Z,36.9323333,-121.6568333,5.488,5.4,ml,100,36,0.004505,0.11,nc,nc20091154,2016-12-17T05:03:49.270Z,"Northern California",earthquake,0.16,0.29,,0,reviewed,nc,nc
+1990-04-18T13:41:38.640Z,36.9308333,-121.656,5.748,4.9,ml,97,45,0.004505,0.09,nc,nc20091172,2016-12-17T05:03:34.180Z,"Northern California",earthquake,0.14,0.26,,0,reviewed,nc,nc
+1990-04-18T13:38:10.170Z,36.9276667,-121.6421667,4.473,4.7,ml,16,85,0.06757,0.17,nc,nc20091171,2016-12-17T05:03:23.896Z,"Northern California",earthquake,0.42,1.06,,0,reviewed,nc,nc
+1989-11-02T05:50:10.690Z,37.0698333,-121.8031667,8.656,4.7,ml,92,39,0.01982,0.09,nc,nc10090165,2018-06-04T20:43:45.000Z,"Northern California",earthquake,0.13,0.25,,7,reviewed,nc,nc
+1989-10-25T01:27:26.220Z,37.0875,-121.8173333,9.453,4.7,ml,91,47,0.02613,0.07,nc,nc10090134,2018-06-04T20:43:45.000Z,"Northern California",earthquake,0.12,0.26,,7,reviewed,nc,nc
+1989-10-21T22:14:56.420Z,37.0676667,-121.8975,14.944,4.7,ml,94,85,0.04234,0.09,nc,nc10090142,2018-06-04T20:43:45.000Z,"Northern California",earthquake,0.2,0.31,,7,reviewed,nc,nc
+1989-10-21T00:49:43.170Z,37.0558333,-121.8546667,12.577,4.5,ml,87,37,0.03333,0.09,nc,nc10090141,2018-06-04T20:43:45.000Z,"Northern California",earthquake,0.17,0.3,,7,reviewed,nc,nc
+1989-10-19T10:14:34.810Z,36.9728333,-121.8336667,12.266,4.6,ml,59,89,0.004505,0.09,nc,nc10090126,2018-06-04T20:43:45.000Z,"Northern California",earthquake,0.22,0.45,,7,reviewed,nc,nc
+1989-10-19T09:53:50.060Z,36.9445,-121.676,7.807,4.5,ml,57,95,0.01712,0.08,nc,nc10090128,2018-06-04T20:43:45.000Z,"Northern California",earthquake,0.21,0.34,,8,reviewed,nc,nc
+1989-10-18T02:15:49.210Z,37.0233333,-121.7408333,-0.313,4.5,ml,34,85,0.06216,0.07,nc,nc10090144,2018-06-04T20:43:45.000Z,"Northern California",earthquake,0.28,0.47,,7,reviewed,nc,nc
+1989-10-18T00:41:23.770Z,37.1901667,-122.052,15.306,5.1,ml,50,57,0.03063,0.09,nc,nc10090725,2018-06-04T20:43:45.000Z,"Northern California",earthquake,0.16,0.53,,4,reviewed,nc,nc
+1989-10-18T00:25:04.580Z,37.0523333,-121.7798333,5.494,4.8,ml,46,65,0.1189,0.09,nc,nc10090486,2018-06-04T20:43:45.000Z,"Northern California",earthquake,0.2,0.79,,5,reviewed,nc,nc
+1989-10-18T00:12:42.300Z,37.176,-121.9781667,5.194,4.6,ml,19,183,0.02703,0.05,nc,nc10090513,2016-12-09T12:26:47.407Z,"Northern California",earthquake,0.52,0.56,,6,reviewed,nc,nc
+1989-10-18T00:07:43.300Z,36.988,-121.7413333,15.257,4.7,ml,12,121,0.07477,0.06,nc,nc10090522,2016-12-09T12:26:25.182Z,"Northern California",earthquake,0.57,0.96,,4,reviewed,nc,nc
+1989-10-18T00:07:15.290Z,37.2381667,-121.9445,9.372,4.7,ml,8,81,0.145,0.16,nc,nc10090521,2016-12-09T12:26:21.546Z,"San Francisco Bay area, California",earthquake,0.64,2.97,,4,reviewed,nc,nc
+1989-10-18T00:04:15.190Z,37.0361667,-121.8798333,17.214,6.9,mh,84,89,0.008108,0.08,nc,nc216859,2020-10-18T17:55:54.137Z,"Loma Prieta, California Earthquake",earthquake,0.21,0.31,,0,reviewed,nc,nc
+1989-08-08T15:53:28.070Z,37.1613333,-121.9496667,14.849,4.5,ml,93,53,0.01622,0.1,nc,nc10089898,2018-06-04T20:43:45.000Z,"Northern California",earthquake,0.17,0.32,,1,reviewed,nc,nc
+1989-08-08T08:13:27.390Z,37.1481667,-121.9268333,13.409,5.4,ml,92,51,0.02162,0.09,nc,nc10089897,2020-07-10T14:12:16.838Z,"Northern California",earthquake,0.16,0.34,,6,reviewed,nc,nc
+1989-04-03T17:46:34.230Z,37.4318333,-121.7713333,11.317,4.5,ml,91,18,0.02973,0.08,nc,nc10089455,2020-07-10T14:11:52.968Z,"San Francisco Bay area, California",earthquake,0.13,0.38,,7,reviewed,nc,nc
+1988-11-10T05:08:02.840Z,37.3746667,-121.7301667,8.387,4.8,ml,99,30,0.02703,0.06,nc,nc10088153,2018-06-04T20:43:45.000Z,"San Francisco Bay area, California",earthquake,0.11,0.34,,6,reviewed,nc,nc
+1988-07-26T03:26:55.640Z,36.5768333,-121.1501667,3.182,4.7,ml,74,22,0.03243,0.06,nc,nc10087527,2018-06-04T20:43:45.000Z,"Central California",earthquake,0.1,0.3,,1,reviewed,nc,nc
+1988-06-27T18:43:22.330Z,37.1283333,-121.895,12.634,5.3,ml,91,45,0.04775,0.09,nc,nc10139668,2018-06-04T20:43:45.000Z,"Northern California",earthquake,0.16,0.36,,4,reviewed,nc,nc
+1988-06-13T01:45:36.530Z,37.3926667,-121.7415,9.087,5.3,ml,98,29,0.03604,0.06,nc,nc10087352,2018-06-04T20:43:45.000Z,"San Francisco Bay area, California",earthquake,0.11,0.37,,5,reviewed,nc,nc
+1988-02-20T08:39:57.260Z,36.7958333,-121.3111667,9.181,5.1,ml,88,26,0.02342,0.07,nc,nc10086194,2018-06-04T20:43:45.000Z,"Central California",earthquake,0.14,0.19,,8,reviewed,nc,nc
+1988-01-06T22:49:48.260Z,36.7773333,-120.8793333,4.465,4.5,ml,73,97,0.08108,0.07,nc,nc110574,2018-06-04T20:43:45.000Z,"Central California",earthquake,0.19,0.6,,6,reviewed,nc,nc
+1986-05-31T08:47:55.590Z,36.6373333,-121.2496667,5.264,4.7,ml,66,40,0.009009,0.05,nc,nc73777,2018-06-04T20:43:45.000Z,"Central California",earthquake,0.1,0.21,,8,reviewed,nc,nc
+1986-03-31T11:55:39.810Z,37.4791667,-121.6866667,8.502,5.7,ml,87,65,0.02703,0.06,nc,nc68932,2020-07-07T22:36:23.052Z,"Northern California",earthquake,0.13,0.41,,6,reviewed,nc,nc
+1986-01-26T19:20:50.950Z,36.8043333,-121.285,8.153,5.5,ml,91,27,0.05946,0.05,nc,nc64626,2020-07-10T14:23:52.248Z,"Central California",earthquake,0.12,0.21,,8,reviewed,nc,nc
+1986-01-14T03:09:36.040Z,36.5828333,-121.1781667,6.2,4.8,ml,82,31,0.01261,0.06,nc,nc63490,2018-06-04T20:43:45.000Z,"Central California",earthquake,0.11,0.25,,4,reviewed,nc,nc
+1985-11-28T15:13:56.790Z,36.5828333,-121.0366667,9.802,4.6,ml,97,69,0.005405,0.24,nc,nc60069,2018-06-04T20:43:45.000Z,"Central California",earthquake,0.29,0.4,,0,reviewed,nc,nc
+1984-04-24T21:15:18.760Z,37.3096667,-121.6788333,8.193,6.2,ml,101,26,0.05135,0.06,nc,nc17204,2020-07-07T22:32:29.156Z,"Northern California",earthquake,0.11,0.31,,0,reviewed,nc,nc
+1982-08-18T08:43:49.550Z,37.0346667,-121.7303333,11.846,4.5,ml,100,36,0.01982,0.09,nc,nc1077693,2018-06-04T20:43:45.000Z,"Northern California",earthquake,0.16,0.31,,0,reviewed,nc,nc
+1982-08-11T07:46:42.940Z,36.6498333,-121.2755,10.144,4.6,ml,83,39,0.01532,0.08,nc,nc1077307,2018-06-04T20:43:45.000Z,"Central California",earthquake,0.16,0.23,,0,reviewed,nc,nc
+1982-08-10T02:11:29.500Z,36.6061667,-121.205,5.771,4.5,ml,73,31,0.03333,0.13,nc,nc1077185,2018-06-04T20:43:45.000Z,"Central California",earthquake,0.19,0.47,,0,reviewed,nc,nc
+1981-01-15T12:47:51.220Z,37.3745,-121.7288333,8.863,4.8,ml,72,48,0.02793,0.07,nc,nc1059310,2018-06-04T20:43:45.000Z,"San Francisco Bay area, California",earthquake,0.16,0.38,,0,reviewed,nc,nc
+1981-01-07T11:42:33.000Z,36.8735,-121.6161667,8.828,4.5,ml,76,60,0.02252,0.1,nc,nc1058966,2018-06-04T20:43:45.000Z,"Central California",earthquake,0.19,0.34,,0,reviewed,nc,nc
+1980-04-13T06:15:56.300Z,36.7856667,-121.509,8.169,4.7,ml,89,43,0.03153,0.15,nc,nc1052105,2018-06-04T20:43:45.000Z,"Central California",earthquake,0.22,0.42,,0,reviewed,nc,nc
+1980-01-27T02:33:35.340Z,37.749,-121.7063333,14.166,5.4,ml,82,102,0.07658,0.1,nc,nc1050437,2020-07-07T22:30:06.485Z,"San Francisco Bay area, California",earthquake,0.18,0.33,,0,reviewed,nc,nc
+1980-01-25T05:24:35.740Z,37.8683333,-121.7803333,9.294,4.6,ml,22,180,0.06036,0.07,nc,nc1050206,2018-06-04T20:43:45.000Z,"San Francisco Bay area, California",earthquake,0.36,1.15,,0,reviewed,nc,nc
+1980-01-24T19:03:18.440Z,37.8341667,-121.781,3.682,4.8,ml,8,161,0.1135,0.21,nc,nc1050043,2018-06-04T20:43:45.000Z,"San Francisco Bay area, California",earthquake,0.81,1.76,,0,reviewed,nc,nc
+1980-01-24T19:01:01.540Z,37.811,-121.775,6.523,5.1,ml,9,149,0.02252,0.21,nc,nc1050041,2018-06-04T20:43:45.000Z,"San Francisco Bay area, California",earthquake,0.85,1.41,,0,reviewed,nc,nc
+1980-01-24T19:00:09.500Z,37.852,-121.815,11,5.8,mw,,,,,us,usp000155j,2020-08-14T05:01:16.726Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,01009
+1979-08-06T17:05:22.930Z,37.1038333,-121.5123333,8.315,5.8,ml,95,97,0.05225,0.06,nc,nc1046962,2020-08-14T05:00:09.032Z,"Northern California",earthquake,0.15,0.36,,0,reviewed,nc,nc
+1979-05-08T05:11:07.320Z,37.2926667,-121.6635,7.083,4.8,ml,76,67,0.03604,0.06,nc,nc1045698,2020-07-10T14:16:41.595Z,"Northern California",earthquake,0.17,0.35,,0,reviewed,nc,nc
+1976-12-02T07:25:52.150Z,36.621,-121.2281667,4.774,4.57,md,48,41,0.01261,0.06,nc,nc1032579,2016-12-15T09:45:00.290Z,"Central California",earthquake,0.16,0.35,0.38,3,reviewed,nc,nc
+1974-11-28T23:01:24.590Z,36.9201667,-121.4673333,5.336,5.2,ml,51,61,0.03784,0.13,nc,nc1021949,2018-06-04T20:43:45.000Z,"Central California",earthquake,0.26,0.59,,0,reviewed,nc,nc
+1974-09-05T05:11:09.790Z,36.5521667,-120.5285,12.303,4.84,md,70,110,0.2405,0.11,nc,nc1020815,2016-12-14T21:04:48.050Z,"Central California",earthquake,0.23,0.8,0.38,14,reviewed,nc,nc
+1973-10-03T10:07:27.400Z,37.195,-121.575,6,4.6,mb,,,,,us,usp00003nu,2018-06-04T20:43:45.000Z,"Northern California",earthquake,,,,,reviewed,b,us
+1972-10-03T06:30:02.200Z,36.8,-121.533,8,4.88,mw,,,,,ushis,ushis3209,2018-06-04T20:43:45.000Z,"Central California",earthquake,,,,,reviewed,ushis,jm
+1972-09-04T18:04:40.250Z,36.5535,-121.3788333,6,4.81,ml,12,183,,0.8,ci,ci3320977,2018-06-04T20:43:45.000Z,"8km NE of Gonzales, CA",earthquake,5.18,31.61,0.11,9,reviewed,ci,ci
+1972-02-27T22:13:08.600Z,36.553,-121.093,8,5.22,mw,,,,,ushis,ushis3186,2018-06-04T20:43:45.000Z,"Central California",earthquake,,,,,reviewed,ushis,jm
+1972-02-24T15:56:51.300Z,36.588,-121.197,8,4.96,mw,,,,,ushis,ushis3185,2018-06-04T20:43:45.000Z,"Central California",earthquake,,,,,reviewed,ushis,som
+1971-04-16T12:58:31.700Z,36.8,-122.183,8,4.8,mb,,,,,ushis,ushis3158,2018-06-04T20:43:45.000Z,"offshore Central California",earthquake,,,,,reviewed,ushis,us
+1971-03-09T15:35:16.200Z,36.8,-122.145,8,4.8,mb,,,,,ushis,ushis3152,2018-06-04T20:43:45.000Z,"offshore Central California",earthquake,,,,,reviewed,ushis,us
+1970-08-04T04:14:21.400Z,36.647,-122.185,8,4.5,mb,,,,,ushis,ushis3112,2018-06-04T20:43:45.000Z,"offshore Central California",earthquake,,,,,reviewed,ushis,us
+1970-06-12T03:30:04.000Z,37.802,-121.933,9,4.6,mb,,,,,ushis,ushis3107,2018-06-04T20:43:45.000Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,us
+1970-03-31T07:02:28.600Z,36.868,-121.418,8,4.51,mw,,,,,ushis,ushis3099,2018-06-04T20:43:45.000Z,"Central California",earthquake,,,,,reviewed,ushis,jm
+1969-10-02T06:19:58.900Z,38.455,-122.692,10,5.1,mb,,,,,ushis,ushis3059,2020-04-16T21:09:07.569Z,"Northern California",earthquake,,,,,reviewed,ushis,us
+1969-10-02T04:56:47.500Z,38.467,-122.692,10,4.8,ms,,,,,ushis,ushis3058,2020-04-16T21:09:10.830Z,"Northern California",earthquake,,,,,reviewed,ushis,us
+1968-04-25T19:49:46.800Z,38.477,-122.725,8,4.6,mb,,,,,ushis,ushis2998,2018-06-04T20:43:45.000Z,"Northern California",earthquake,,,,,reviewed,ushis,us
+1967-12-18T17:24:32.000Z,37.01,-121.788,13,4.66,mw,,,,,ushis,ushis2982,2018-06-04T20:43:45.000Z,"Northern California",earthquake,,,,,reviewed,ushis,bak
+1967-09-28T15:38:37.900Z,37.23,-121.62,8,4.9,ml,,,,,ushis,ushis2975,2018-06-04T20:43:45.000Z,"Northern California",earthquake,,,,,reviewed,ushis,brk
+1965-09-10T21:28:35.700Z,38.01,-121.823,,4.9,mb,,,,,ushis,ushis2844,2018-06-04T20:43:45.000Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,us
+1964-11-16T02:46:42.300Z,37.055,-121.692,,5.2,mb,,,,,ushis,ushis2731,2018-06-04T20:43:45.000Z,"Northern California",earthquake,,,,,reviewed,ushis,us
+1963-09-14T19:46:17.000Z,36.89,-121.597,3,5.4,mb,,,,,ushis,ushis2622,2018-06-04T20:43:45.000Z,"Central California",earthquake,,,,,reviewed,ushis,us
+1963-05-22T22:41:05.200Z,37.272,-122.318,,4.6,ml,,,,,ushis,ushis2609,2018-06-04T20:43:45.000Z,"Northern California",earthquake,,,,,reviewed,ushis,brk
+1961-04-09T07:25:41.000Z,36.683,-121.3,,5.5,ml,,,,,ushis,ushis2492,2018-06-04T20:43:45.000Z,"Central California",earthquake,,,,,reviewed,ushis,brk
+1961-04-09T07:23:16.000Z,36.683,-121.3,,5.6,ml,,,,,ushis,ushis2491,2020-07-10T03:49:49.994Z,"Central California",earthquake,,,,,reviewed,ushis,brk
+1960-01-20T03:25:53.000Z,36.783,-121.433,,5,ml,,,,,ushis,ushis2433,2018-06-04T20:43:45.000Z,"Central California",earthquake,,,,,reviewed,ushis,brk
+1959-12-29T02:32:53.000Z,36.9,-121.483,,4.7,ml,,,,,ushis,ushis2429,2018-06-04T20:43:45.000Z,"Central California",earthquake,,,,,reviewed,ushis,brk
+1959-05-26T15:58:01.000Z,36.717,-121.617,,4.6,ml,,,,,ushis,ushis2374,2018-06-04T20:43:45.000Z,"Central California",earthquake,,,,,reviewed,ushis,brk
+1959-03-02T23:27:17.000Z,36.983,-121.6,,5.3,ml,,,,,ushis,ushis2362,2018-06-04T20:43:45.000Z,"Northern California",earthquake,,,,,reviewed,ushis,brk
+1958-12-11T09:52:27.000Z,37.7,-122.567,,4.7,ml,,,,,ushis,ushis2348,2018-06-04T20:43:45.000Z,"offshore Northern California",earthquake,,,,,reviewed,ushis,brk
+1958-09-21T07:24:50.760Z,37.0306667,-121.3798333,6,4.56,ml,7,331,2.44,0.74,ci,ci3296765,2018-06-04T20:43:45.000Z,"17km E of Gilroy, CA",earthquake,7.56,31.61,0.024,9,reviewed,ci,ci
+1957-09-28T21:04:39.000Z,36.6,-121.233,,4.5,ml,,,,,ushis,ushis2260,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,brk
+1957-03-22T19:44:21.000Z,37.667,-122.483,,5.3,ml,,,,,ushis,ushis2195,2020-07-10T05:25:27.260Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,brk
+1955-11-02T19:40:04.180Z,36.572,-120.6995,6,4.87,ml,6,320,,1.3,ci,ci3297331,2018-06-04T20:43:44.000Z,"35km SW of Mendota, CA",earthquake,11,31.61,0.264,8,reviewed,ci,ci
+1955-10-24T04:10:44.000Z,37.967,-122.05,,5.4,ml,,,,,ushis,ushis2064,2018-06-04T20:43:44.000Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,brk
+1955-09-05T02:01:18.000Z,37.367,-121.783,,5.5,ml,,,,,ushis,ushis2059,2020-07-10T06:35:16.585Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,brk
+1954-12-17T07:08:58.000Z,37.717,-122.133,,4.5,ml,,,,,ushis,ushis1994,2018-06-04T20:43:44.000Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,brk
+1954-04-25T20:33:28.000Z,36.933,-121.683,,5.3,ml,,,,,ushis,ushis1934,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,brk
+1951-10-31T20:58:19.000Z,36.9,-121.417,,4.8,ml,,,,,ushis,ushis1754,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,brk
+1951-08-06T09:05:02.000Z,36.617,-121.217,,4.9,ml,,,,,ushis,ushis1749,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,brk
+1951-07-29T10:53:45.000Z,36.583,-121.183,,5,ml,,,,,ushis,ushis1748,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,brk
+1949-10-22T21:45:20.000Z,36.58,-121.17,,4.7,ml,,,,,ushis,ushis1674,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,brk
+1949-06-10T03:06:40.000Z,37.3,-121.67,,4.6,ml,,,,,ushis,ushis1663,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,brk
+1949-03-09T12:28:39.000Z,37.02,-121.48,,5.2,ml,,,,,ushis,ushis1653,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,brk
+1949-01-01T01:17:54.000Z,36.9,-121.62,,4.5,ml,,,,,ushis,ushis1645,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,brk
+1948-03-28T22:45:00.000Z,36.85,-121.57,,4.5,ml,,,,,ushis,ushis1621,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,brk
+1948-03-28T22:38:03.000Z,36.85,-121.57,,4.6,ml,,,,,ushis,ushis1620,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,brk
+1947-06-22T23:29:33.000Z,37,-121.77,,4.7,ml,,,,,ushis,ushis1582,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,brk
+1946-05-29T17:51:03.000Z,36.77,-121.42,,4.5,ml,,,,,ushis,ushis1550,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,brk
+1946-05-02T01:26:12.000Z,37.68,-121.6,,4.6,ml,,,,,ushis,ushis1549,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,brk
+1945-08-27T09:13:04.000Z,37.27,-121.8,,4.5,ml,,,,,ushis,ushis1504,2018-06-04T20:43:44.000Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,brk
+1945-05-17T15:06:47.000Z,36.82,-121.37,,4.6,ml,,,,,ushis,ushis1496,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,brk
+1945-01-07T22:25:33.000Z,36.73,-121.2,,4.7,ml,,,,,ushis,ushis1488,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,brk
+1943-10-26T04:50:33.000Z,37.43,-121.68,,4.9,ml,,,,,ushis,ushis1454,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,brk
+1941-05-28T06:23:18.000Z,37.08,-121.75,,4.5,ml,,,,,ushis,ushis1358,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,brk
+1940-09-07T13:02:06.000Z,36.5,-121.5,,4.5,ml,,,,,ushis,ushis1332,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,brk
+1939-07-17T09:24:54.000Z,36.85,-121.68,,4.5,ml,,,,,ushis,ushis1264,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,brk
+1939-06-24T13:02:06.000Z,36.8,-121.45,,5.5,ml,,,,,ushis,ushis1260,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,brk
+1938-12-01T16:17:00.000Z,37.5,-121.8,,4.5,ml,,,,,ushis,ushis1230,2018-06-04T20:43:44.000Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,brk
+1938-02-12T20:00:14.000Z,37,-122,,4.5,ml,,,,,ushis,ushis1190,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,brk
+1937-10-27T15:53:00.000Z,36.6,-121.5,,4.5,ml,,,,,ushis,ushis1184,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,brk
+1937-08-06T03:24:00.000Z,38.8,-120.1,,4.5,ml,,,,,ushis,ushis1178,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,brk
+1937-03-08T10:31:12.000Z,37.8,-122.2,,4.5,ml,,,,,ushis,ushis1165,2018-06-04T20:43:44.000Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,brk
+1937-03-05T12:47:00.000Z,36.7,-121.7,,4.5,ml,,,,,ushis,ushis1164,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,brk
+1937-02-17T03:33:00.000Z,36.7,-121.2,,4.5,ml,,,,,ushis,ushis1160,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,brk
+1936-05-27T19:55:00.000Z,36.5,-121.17,,4.5,ml,,,,,ushis,ushis1144,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,brk
+1933-12-13T15:34:37.000Z,37.2,-122,,5,uk,,,,,ushis,ushis1015,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,jon
+1933-05-16T11:45:26.000Z,37.6,-122,,4.5,ml,,,,,ushis,ushis986,2018-06-04T20:43:44.000Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,brk
+1932-11-03T18:54:40.000Z,37.16,-122.16,,4.9,uk,,,,,ushis,ushis915,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,jon
+1932-10-25T01:07:19.390Z,36.917,-121.967,6,4.6,ml,3,304,2.995,1.33,ci,ci3359399,2019-05-02T20:46:16.856Z,"5km S of Opal Cliffs, CA",earthquake,99,31.61,0.248,11,reviewed,ci,ci
+1932-06-14T09:44:17.000Z,37.25,-122.08,,4.5,ml,,,,,ushis,ushis901,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,brk
+1932-04-16T18:48:10.000Z,36.67,-121.22,,4.5,ml,,,,,ushis,ushis897,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,brk
+1931-12-04T00:53:00.000Z,36.5,-121.67,,5.1,uk,,,,,ushis,ushis883,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,jon
+1930-01-09T08:16:00.000Z,36.8,-121.5,,4.5,ml,,,,,ushis,ushis833,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,cdmg
+1930-01-09T08:06:13.000Z,36.8,-121.5,,4.5,ml,,,,,ushis,ushis832,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,cdmg
+1928-08-09T06:35:00.000Z,37.33,-121.92,,4.8,uk,,,,,ushis,ushis789,2018-06-04T20:43:44.000Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,jon
+1928-01-09T02:45:00.000Z,37,-121.58,,4.6,uk,,,,,ushis,ushis777,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,jon
+1927-05-28T17:36:17.000Z,37.33,-122.92,,4.9,uk,,,,,ushis,ushis764,2018-06-04T20:43:44.000Z,"offshore Northern California",earthquake,,,,,reviewed,ushis,jon
+1927-02-15T23:54:04.500Z,36.95,-122.267,,5,ml,,,,,ushis,ushis759,2018-06-04T20:43:44.000Z,"offshore Northern California",earthquake,,,,,reviewed,ushis,cdmg
+1926-10-24T22:51:50.500Z,37.017,-122.208,,5.5,ml,,,,,ushis,ushis752,2018-06-04T20:43:44.000Z,"offshore Northern California",earthquake,,,,,reviewed,ushis,cdmg
+1926-10-22T13:35:27.000Z,36.725,-122.18,10,6.3,mw,,,,,iscgem,iscgem910175,2020-07-10T12:21:10.919Z,"offshore Central California",earthquake,,,,,automatic,iscgem,iscgem
+1926-10-22T12:35:00.000Z,36.617,-122.35,,6.1,ms,,,,,ushis,ushis750,2018-06-04T20:43:44.000Z,"offshore Central California",earthquake,,,,,reviewed,ushis,gr
+1926-07-25T17:57:54.000Z,36.5,-120.8,15,5,ml,,,,,ushis,ushis745,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,cdmg
+1924-04-03T23:54:00.000Z,37.33,-121.67,,4.5,ml,,,,,ushis,ushis705,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,cdmg
+1924-03-09T11:33:29.000Z,36.58,-121.67,,4.6,uk,,,,,ushis,ushis704,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,jon
+1920-10-05T19:03:58.000Z,36.58,-121.67,,5.2,uk,,,,,ushis,ushis664,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,jon
+1919-11-25T11:03:00.000Z,37.08,-121.83,,4.5,ml,,,,,ushis,ushis653,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,cdmg
+1919-02-25T22:38:00.000Z,38.33,-122.5,,4.6,uk,,,,,ushis,ushis648,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,jon
+1917-10-26T09:18:51.000Z,37.4,-121.8,,4.8,uk,,,,,ushis,ushis624,2018-06-04T20:43:44.000Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,jon
+1916-08-08T16:52:41.000Z,37,-122,,5,uk,,,,,ushis,ushis597,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,jon
+1916-08-06T19:38:00.000Z,36.67,-121.25,,5.3,ml,,,,,ushis,ushis596,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,cdmg
+1915-10-08T05:25:42.000Z,37.83,-122.25,,4.5,ml,,,,,ushis,ushis578,2018-06-04T20:43:44.000Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,cdmg
+1914-12-28T10:42:00.000Z,37.17,-122.17,,4.5,ml,,,,,ushis,ushis564,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,cdmg
+1914-11-09T02:31:00.000Z,37.17,-122,,4.7,ml,,,,,ushis,ushis563,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,cdmg
+1912-09-12T17:27:00.000Z,37.33,-122.17,,4.5,ml,,,,,ushis,ushis539,2018-06-04T20:43:44.000Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,cdmg
+1911-07-01T22:00:03.000Z,37.25,-121.75,,6.6,ms,,,,,ushis,ushis521,2018-06-04T20:43:44.000Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,gr
+1911-03-11T21:29:00.000Z,36.83,-121.42,,4.5,ml,,,,,ushis,ushis518,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,cdmg
+1910-12-31T12:11:00.000Z,36.83,-121.42,,5,ml,,,,,ushis,ushis517,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,cdmg
+1910-03-11T06:52:00.000Z,36.9,-121.8,,5.8,ms,,,,,ushis,ushis499,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,ell
+1909-11-22T15:21:00.000Z,36.7,-121.4,,4.5,ml,,,,,ushis,ushis496,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,cdmg
+1909-02-14T15:55:00.000Z,38.1,-121.7,,4.5,ml,,,,,ushis,ushis481,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,cdmg
+1908-04-25T11:33:00.000Z,36.6,-121.8,,4.5,ml,,,,,ushis,ushis473,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,cdmg
+1906-04-18T13:12:27.700Z,37.75,-122.55,11.7,7.9,mw,,,,,official,official19060418131226300_12,2020-09-10T01:04:25.237Z,"The 1906 San Francisco Earthquake",earthquake,10,7,,,reviewed,official,official
+1904-07-30T10:26:00.000Z,38.5,-122,,4.5,ml,,,,,ushis,ushis430,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,cdmg
+1903-08-03T06:49:00.000Z,37.3,-121.8,,5.8,ml,,,,,ushis,ushis421,2018-06-04T20:43:44.000Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,cdmg
+1903-06-11T13:12:00.000Z,37.4,-121.9,,5.8,ml,,,,,ushis,ushis418,2018-06-04T20:43:44.000Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,cdmg
+1902-05-19T18:31:00.000Z,38.3,-121.9,,5.4,ml,,,,,ushis,ushis402,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,cdmg
+1900-04-30T22:41:14.000Z,36.9,-121.6,,4.5,ml,,,,,ushis,ushis389,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,cdmg
